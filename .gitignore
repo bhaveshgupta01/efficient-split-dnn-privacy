@@ -1,0 +1,5 @@
+.config/
+sample_data/
+*.pth
+__pycache__/
+data/
